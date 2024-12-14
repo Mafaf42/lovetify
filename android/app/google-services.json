@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392189142551",
+    "project_id": "lovetify-2ce34",
+    "storage_bucket": "lovetify-2ce34.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392189142551:android:54d72bd1e37d1b3f741e52",
+        "android_client_info": {
+          "package_name": "com.lovetify.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPzp7wi2Otkpiiv_Ch1HAXJTj0QHhtQfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
